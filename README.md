@@ -1,16 +1,5 @@
 # quizzler
 
-A new Flutter project.
+Quizzler is an app created while learning from Angela Yu.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/AmrendraOG/quizzler/assets/125346970/4252b0f9-3bd3-4526-87e1-e1bf9225ba09
